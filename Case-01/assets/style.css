@@ -1,0 +1,22 @@
+section>div{
+    margin-top: 20px;
+    background-color: purple;
+    color: white;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    width: 200px;
+    margin-left: -150px;
+}
+
+section>div>i{
+    margin-left: 100px;
+}
+
+section>div:hover{
+    transition-property: all;
+    transition-duration: 1s;
+    margin-left: 0px;
+    cursor: pointer;
+    background-color: aquamarine;
+}
