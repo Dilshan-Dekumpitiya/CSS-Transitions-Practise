@@ -1,5 +1,5 @@
 # CSS-Transitions Practise
-## Used transitions to implement following Animations
+## Used transitions to implement following Cases
 ### No use any type of CSS frameworks,plugins
 
 #### Case 1 - Transition for navigation
